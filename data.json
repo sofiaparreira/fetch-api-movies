@@ -1,0 +1,185 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "year": 2010,
+        "genre": "Sci-Fi",
+        "synopsis": "Um ladrão especializado em invadir a mente das pessoas através dos sonhos é oferecido a chance de apagar seu passado criminoso em troca da tarefa quase impossível de plantar uma ideia na mente de alguém.",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2b8bc4866e28f9b95c65965a2b33c8b14a8cebe8287b7399b536c672729ef018.jpg"
+      },
+      {
+        "id": 2,
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "year": 1994,
+        "genre": "Drama",
+        "synopsis": "Dois homens na prisão formam um vínculo de amizade, encontrando consolo e redenção ao longo de vários anos enquanto cumprem suas penas.",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+      },
+      {
+        "id": 3,
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "year": 1972,
+        "genre": "Crime, Drama",
+        "synopsis": "O patriarca envelhecido de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 4,
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "year": 2008,
+        "genre": "Action, Crime, Drama",
+        "synopsis": "Quando o Coringa emerge como o novo líder do crime em Gotham, Batman deve aceitar um dos maiores desafios para combater o caos e a anarquia.",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/d/d1/The_Dark_Knight.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "year": 1994,
+        "genre": "Crime, Drama",
+        "synopsis": "A vida de dois assassinos de aluguel, um boxeador, a esposa de um gângster e dois bandidos se entrelaçam em quatro histórias de violência e redenção.",
+         "image": "https://musicart.xboxlive.com/7/292c0b00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+      },
+      {
+        "id": 6,
+        "title": "The Matrix",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "year": 1999,
+        "genre": "Sci-Fi",
+        "synopsis": "Um hacker descobre a verdadeira natureza da realidade e seu papel na guerra contra os controladores da Matrix.",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSjSWOCaw5dnDL2GT1zFd9RMCgUGw5Q2Cfg&s"
+      },
+      {
+        "id": 7,
+        "title": "Fight Club",
+        "director": "David Fincher",
+        "year": 1999,
+        "genre": "Drama",
+        "synopsis": "Um homem deprimido que sofre de insônia encontra uma nova forma de vida ao fundar um clube de luta clandestino com um vendedor de sabonetes carismático.",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4nkUmSLc4YckkiQ1SEGpJ3J6NEHvVxvNA8w&s"
+      },
+      {
+        "id": 8,
+        "title": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "year": 1994,
+        "genre": "Drama, Romance",
+        "synopsis": "A história de um homem com QI baixo, que, sem querer, influencia grandes momentos da história americana.",
+         "image": "https://m.media-amazon.com/images/S/pv-target-images/f9ddd832d1b566f5b8dd29a4dbc76b7531c420c8c8d9fdfe94eca128bda8e2b1.jpg"
+      },
+      {
+        "id": 9,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "director": "Peter Jackson",
+        "year": 2001,
+        "genre": "Fantasy, Adventure",
+        "synopsis": "Um hobbit embarca em uma jornada para destruir um poderoso anel antes que ele caia nas mãos de um maligno senhor das trevas.",
+         "image": "imagem"
+      },
+      {
+        "id": 10,
+        "title": "Star Wars: Episode IV - A New Hope",
+        "director": "George Lucas",
+        "year": 1977,
+        "genre": "Sci-Fi, Adventure",
+        "synopsis": "Um jovem fazendeiro descobre seu destino como um cavaleiro Jedi e se junta à Rebelião contra o Império Galáctico.",
+         "image": "imagem"
+      },
+      {
+        "id": 11,
+        "title": "The Silence of the Lambs",
+        "director": "Jonathan Demme",
+        "year": 1991,
+        "genre": "Thriller, Crime",
+        "synopsis": "Uma jovem agente do FBI busca a ajuda de um canibal para capturar um serial killer.",
+         "image": "https://m.media-amazon.com/images/I/51SHYSFNP2L._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Schindler's List",
+        "director": "Steven Spielberg",
+        "year": 1993,
+        "genre": "Drama, History",
+        "synopsis": "A história real de um empresário que salvou mais de mil judeus durante o Holocausto.",
+         "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": 2014,
+        "genre": "Sci-Fi, Adventure",
+        "synopsis": "Um grupo de exploradores viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+         "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Gladiator",
+        "director": "Ridley Scott",
+        "year": 2000,
+        "genre": "Action, Drama",
+        "synopsis": "Um general romano é traído e se torna um gladiador em busca de vingança contra o imperador corrupto que matou sua família.",
+         "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
+      },
+      {
+        "id": 15,
+        "title": "The Avengers",
+        "director": "Joss Whedon",
+        "year": 2012,
+        "genre": "Action, Sci-Fi",
+        "synopsis": "Heróis superpoderosos se unem para combater uma ameaça global liderada pelo vilão Loki.",
+         "image": "https://m.media-amazon.com/images/I/71Sb4AfzGTL._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "id": 16,
+        "title": "The Lion King",
+        "director": "Roger Allers, Rob Minkoff",
+        "year": 1994,
+        "genre": "Animation, Adventure, Drama",
+        "synopsis": "A jornada de um jovem leão, Simba, para assumir seu lugar como o rei das Terras do Reino após a morte de seu pai.",
+         "image": "https://m.media-amazon.com/images/I/81x1-7zDMsL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Back to the Future",
+        "director": "Robert Zemeckis",
+        "year": 1985,
+        "genre": "Sci-Fi, Adventure",
+        "synopsis": "Um adolescente é acidentalmente enviado de volta no tempo para 1955, onde deve garantir que seus pais se encontrem e se apaixonem.",
+         "image": "https://m.media-amazon.com/images/S/pv-target-images/c190e195b8b1d440d728fe77b02385975dafba7ce6a18451fa2b1afbe2f81db6.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Titanic",
+        "director": "James Cameron",
+        "year": 1997,
+        "genre": "Drama, Romance",
+        "synopsis": "Um artista pobre e uma jovem aristocrata se apaixonam a bordo do malfadado navio Titanic.",
+         "image": "https://play-lh.googleusercontent.com/560-H8NVZRHk00g3RltRun4IGB-Ndl0I0iKy33D7EQ0cRRwH78-c46s90lZ1ho_F1so=w240-h480-rw"
+      },
+        {
+        "id": 19,
+        "title": "Saving Private Ryan",
+        "director": "Steven Spielberg",
+        "year": 1998,
+        "genre": "War, Drama",
+        "synopsis": "Durante a Segunda Guerra Mundial, um grupo de soldados é enviado em uma missão para resgatar um único soldado cujos irmãos foram mortos em combate.",
+         "image": "imagem"
+      },
+      {
+        "id": 20,
+        "title": "Jurassic Park",
+        "director": "Steven Spielberg",
+        "year": 1993,
+        "genre": "Adventure, Sci-Fi",
+        "synopsis": "Um parque temático com dinossauros clonados se transforma em um pesadelo quando as criaturas escapam do cativeiro.",
+         "image": "https://m.media-amazon.com/images/I/8142L+TQEyL._AC_UF1000,1000_QL80_.jpg"
+      }
+    ]
+  }
+  
